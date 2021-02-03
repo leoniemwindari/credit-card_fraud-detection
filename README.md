@@ -16,6 +16,31 @@ Recognizing fraud transaction from all transaction so that the customers are not
 * Feature **Class** is the response variable and it takes value 1 in case of fraud and 0 otherwise.
 
 
+## Data Cleaning
+* 
+
+## Data Transformation
+* Scaling the 'Amount' and 'Time' columns
+* Split the data for the train and test set
+* Use SMOTE to handle imbalanced dataset and see the correlation of each columns
+* Determine which feature have a negative and positive correlation
+* Remove extereme outliers from features that have a high correlation with the classes
+
+
+## Data Clustering
+* Use t-SNE, PCA, and Truncated SVD to cluster the class and compare them
+
+## Model Building
+* Use Random-Under Sampling, Random-Over Sampling, and SMOTE to handle imbalanced dataset (and with cross validation)
+* Use Logistic Regression, KNN< SVC, and Decision Tree as the model and compare each one of them
+
+
+## Model Parameter
+* Accuracty
+* 
+
+
+
 ## Data Wrangling
 1. There is no missing value so we don't have to handle it
 2. Scaling the Amount and Time columns
