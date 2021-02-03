@@ -16,19 +16,19 @@ Recognizing fraud transaction from all transaction so that the customers are not
 * Feature **Class** is the response variable and it takes value 1 in case of fraud and 0 otherwise.
 
 ## Project Detail
-**Handle Imbalanced Dataset**
+**Handle Imbalanced Dataset:**
 For this project I will compare these technique to handle imbalanced dataset and determine which one fits the best :
 * Random Under-Sampling Technique
 * Random Over-Sampling Technique
 * SMOTE (Synthetic Minority Over-sampling Technique)
 
-**Machine Learning Models**
+**Machine Learning Models:**
 For this project I will implement the data to these models and determine which one fits the best:
 * Logistic Regression
 * K-Nearest Neighbor
 * Random Forest
 
-**Model Parameter**
+**Model Parameter:**
 To determine which machine learning model fits the dataset the best, I will use this parameter to decide:
 * Accuracy
 * Precision-Recall
