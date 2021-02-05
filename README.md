@@ -66,7 +66,7 @@ ROC-AUC curve for the imbalanced dataset technique:
 
 ## Contact
 Leonie M. Windari - @leoniemw_ds - leoniemwindari98@gmail.com
-Website - 
+Website - https://leoniemwindari.wordpress.com/2021/02/05/credit-card-fraud-detection/
 
 
 
